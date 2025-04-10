@@ -1,32 +1,11 @@
-/********************************************************
-*
-* Author: Luke
-* Date: 23.04.2025
-*
-**********************************************************/
-
-/* Style all p Tags */
-
-p{
-    font-size: 12px;
+body{
     color: red;
 }
 
-
-a{
-    text-decoration: underline;
+div{
     color: blue;
 }
 
-span{
-    text-transform: uppercase;
-}
-
-h1{
-    font-size: 32px;
-}
-
-div{
-    width: 100%;
-    background-color: grey;
+p{
+    color: green;
 }
